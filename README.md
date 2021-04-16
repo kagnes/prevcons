@@ -24,7 +24,7 @@ A _PrevCons_ elérhető TSV fájlként (`PrevCons.tsv`) és SQLite adatbáziské
 
 9. `suffixtype`: a képző vagy hangzásséma típusa
 
-10. `phonotype`: amennyiben hangzássémába illeszkedik az ige, az alséma típusa
+10. `phonotype`: amennyiben hangzássémába illeszkedik az ige, itt látható a teljes CV-séma
 
 11. `style`: a forrásmondat stílusregisztere
 
