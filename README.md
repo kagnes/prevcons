@@ -44,6 +44,28 @@ A `PrevCons.sqlite3` fájl böngészéséhez az `SQLite_útmutató.pdf` nyújt t
 
 ### Licensz
 
-A _PrevCons_ a [GPL-3.0](https://github.com/kagnes/prevcons/blob/master/LICENSE) licensz alá tartozik. Felhasználása esetén az alábbi publikáció hivatkozandó:
+A _PrevCons_ a [GPL-3.0](https://github.com/kagnes/prevcons/blob/master/LICENSE) licensz alá tartozik. Amennyiben felhasználja az adatbázist, kérem, hogy hivatkozza az alábbi publikációk egyikét:
 
-_(hamarosan)_
+Kalivoda Ágnes (2021). Az igekötők produktív kapcsolódási mintái. _Argumentum 17._ p. 56-82. [https://doi.org/10.34103/ARGUMENTUM/2021/4](https://doi.org/10.34103/ARGUMENTUM/2021/4)
+
+    @article{kalivoda2021,
+        title = {Az igekötők produktív kapcsolódási mintái},
+        journal = {Argumentum},
+        volume = {17},
+        year = {2021},
+        pages = {56--82},
+        author = {Kalivoda, {\'A}gnes},
+        DOI = {https://doi.org/10.34103/ARGUMENTUM/2021/4}
+    }
+
+Kalivoda Ágnes (2021). _Igekötős szerkezetek a magyarban._ Doktori értekezés. Pázmány Péter Katolikus Egyetem, Bölcsészet- és Társadalomtudományi Kar, Nyelvtudományi Doktori Iskola. Budapest. _Megjelenés alatt._
+
+	@phdthesis{kalivoda2021,
+		address = {Budapest},
+		type = {Doktori értekezés},
+		title = {Igekötős szerkezetek a magyarban},
+		school = {Pázmány Péter Katolikus Egyetem, Bölcsészet- és Társadalomtudományi Kar, Nyelvtudományi Doktori Iskola},
+		author = {Kalivoda, {\'A}gnes},
+		year = {2021}
+	}
+
