@@ -2,6 +2,10 @@
 
 A _PrevCons_ (Preverb Constructions) egy nyílt hozzáférésű adatbázis, amely 21.038 igekötős hapaxot tartalmaz azok lehetséges vonzatkeretével együtt. Ezen felül számos meta-adat érhető el benne a hapaxok morfológiai szerkezetéről, szemantikájáról és konkrét szövegbeli előfordulásáról. Az adatbázisról az oldal alján feltüntetett publikációk nyújtanak részletes tájékoztatást.
 
+A _PrevCons_ webes keresőfelület segítségével is böngészhető: [https://aszalo.herokuapp.com/](https://aszalo.herokuapp.com/)
+
+A keresőfelületet **Indig Balázs** készítette.
+
 ### Az erőforrás szerkezete
 
 A _PrevCons_ elérhető TSV fájlként (`PrevCons.tsv`) és SQLite adatbázisként is (`PrevCons.sqlite3`). Ezek pusztán a formátumukat tekintve térnek el egymástól, tartalmilag megegyeznek. A két formátumot az indokolja, hogy a számítógépes feldolgozáshoz praktikusabb lehet a TSV, a kézi adatelemzéshez pedig az SQLite-alapú megoldás. Az erőforrás 16 oszlopból áll, amelyek a következők:
