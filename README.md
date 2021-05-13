@@ -4,7 +4,7 @@ A _PrevCons_ (Preverb Constructions) egy nyílt hozzáférésű adatbázis, amel
 
 A _PrevCons_ webes keresőfelület segítségével is böngészhető: [https://aszalo.herokuapp.com/](https://aszalo.herokuapp.com/)
 
-A keresőfelületet **Indig Balázs** készítette.
+A keresőfelületet **[Indig Balázs](https://github.com/dlazesz)** készítette.
 
 ### Az erőforrás szerkezete
 
