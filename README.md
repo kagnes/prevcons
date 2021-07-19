@@ -20,9 +20,9 @@ A _PrevCons_ elérhető TSV fájlként (`PrevCons.tsv`) és SQLite adatbáziské
 
 5. `argframe`: az igekötős ige lehetséges (automatikus módszerrel kinyert) vonzatkerete
 
-6. `prev_prod`: az igekötő terjeszkedő produktivitása
+6. `prev_prod`: az igekötő terjeszkedő produktivitása (a PrevLex [2019/06/17-i verziója](https://github.com/kagnes/prevlex/commit/3ea0c759d79d6dde76ccdfc29a10d68d7d635093#diff-e7f337e76c4c22287aee5a15e611acb2bf98753a47d8a7be0ae3134aef463813) alapján)
 
-7. `prev_hapaxes`: az igekötőt tartalmazó hapaxok darabszáma
+7. `prev_hapaxes`: az igekötőt tartalmazó hapaxok darabszáma (a PrevLex [2019/06/17-i verziója](https://github.com/kagnes/prevlex/commit/3ea0c759d79d6dde76ccdfc29a10d68d7d635093#diff-e7f337e76c4c22287aee5a15e611acb2bf98753a47d8a7be0ae3134aef463813) alapján)
 
 8. `inputtype`: az ige esetében azonosított szóalkotási mód
 
@@ -36,11 +36,11 @@ A _PrevCons_ elérhető TSV fájlként (`PrevCons.tsv`) és SQLite adatbáziské
 
 13. `w2v_input`: az automatikus klaszterezés bemeneti szava (ide szóképzéssel létrejött ige esetében az alapszó kerül, pl. _trollkodik_ ⟶ _troll_,  hangzássémás ige esetében ugyanaz, mint az igelemma)
 
-14.	`w2v_cluster`: annak a klaszternek az azonosító száma, amelybe a `w2v_input` mező szava került a szóbeágyazás során
+14. `w2v_cluster`: annak a klaszternek az azonosító száma, amelybe a `w2v_input` mező szava került a szóbeágyazás során
 
-15.	`clause`: az a tagmondat, amely az igekötős igét tartalmazza
+15. `clause`: az a tagmondat, amely az igekötős igét tartalmazza
 
-16.	`sent`: a teljes mondat, amely az igekötős igét tartalmazza
+16. `sent`: a teljes mondat, amely az igekötős igét tartalmazza
 
 ### Kiegészítő anyag
 
