@@ -1,6 +1,6 @@
 # PrevCons – igekötős igei hapaxok adatbázisa
 
-A _PrevCons_ (Preverb Constructions) egy nyílt hozzáférésű adatbázis, amely 21.038 igekötős hapaxot tartalmaz azok lehetséges vonzatkeretével együtt. Ezen felül számos meta-adat érhető el benne a hapaxok morfológiai szerkezetéről, szemantikájáról és konkrét szövegbeli előfordulásáról. Az adatbázisról az oldal alján feltüntetett publikációk nyújtanak részletes tájékoztatást.
+A _PrevCons_ (Preverb Constructions) egy nyílt hozzáférésű adatbázis, amely 21038 igekötős hapaxot tartalmaz azok lehetséges vonzatkeretével együtt. Ezen felül számos metaadat érhető el benne a hapaxok morfológiai szerkezetéről, szemantikájáról és konkrét szövegbeli előfordulásáról. Az adatbázisról az oldal alján feltüntetett publikációk nyújtanak részletes tájékoztatást.
 
 A _PrevCons_ webes keresőfelület segítségével is böngészhető: [https://aszalo.herokuapp.com/](https://aszalo.herokuapp.com/)
 
@@ -62,7 +62,7 @@ Kalivoda Ágnes (2021). Az igekötők produktív kapcsolódási mintái. _Argume
         DOI = {https://doi.org/10.34103/ARGUMENTUM/2021/4}
     }
 
-Kalivoda Ágnes (2021). _Igekötős szerkezetek a magyarban._ Doktori értekezés. Pázmány Péter Katolikus Egyetem, Bölcsészet- és Társadalomtudományi Kar, Nyelvtudományi Doktori Iskola. Budapest. _Megjelenés alatt._
+Kalivoda Ágnes (2021). [_Igekötős szerkezetek a magyarban._ Doktori értekezés.](https://github.com/kagnes/phd_thesis) Pázmány Péter Katolikus Egyetem, Bölcsészet- és Társadalomtudományi Kar, Nyelvtudományi Doktori Iskola. Budapest. _Megjelenés alatt._
 
 	@phdthesis{kalivoda2021,
 		address = {Budapest},
