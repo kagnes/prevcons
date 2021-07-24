@@ -1,6 +1,6 @@
 # PrevCons – igekötős igei hapaxok adatbázisa
 
-A _PrevCons_ (Preverb Constructions) egy nyílt hozzáférésű adatbázis, amely 21038 igekötős hapaxot tartalmaz azok lehetséges vonzatkeretével együtt. Ezen felül számos metaadat érhető el benne a hapaxok morfológiai szerkezetéről, szemantikájáról és konkrét szövegbeli előfordulásáról. Az adatbázisról az oldal alján feltüntetett publikációk nyújtanak részletes tájékoztatást.
+A _PrevCons_ (Preverb Constructions) egy nyílt hozzáférésű adatbázis, amely 21&nbsp;038 igekötős hapaxot tartalmaz azok lehetséges vonzatkeretével együtt. Ezen felül számos metaadat érhető el benne a hapaxok morfológiai szerkezetéről, szemantikájáról és konkrét szövegbeli előfordulásáról. Az adatbázisról az oldal alján feltüntetett publikációk nyújtanak részletes tájékoztatást.
 
 A _PrevCons_ webes keresőfelület segítségével is böngészhető: [https://aszalo.herokuapp.com/](https://aszalo.herokuapp.com/)
 
